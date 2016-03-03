@@ -16,3 +16,7 @@ document.write('After snacking on ' + adjective + ' treats, the ' + colour + ' b
 
 } if (story == 'b') {
   document.write('Ameilia ' + verb + ' through the ' + adjective + colour + 'nebula escaping the space' + 'nebula escaping the space');
+
+} if (story == 'b') {
+document.write('Jackson chose his ' + adjective + ' , ' +  colour + creature + 'card and' + verb + 'it to the table knowing he won.');
+}
